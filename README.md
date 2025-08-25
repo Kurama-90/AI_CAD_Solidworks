@@ -2,6 +2,10 @@
 
 Python app with **Tkinter** to generate and run SolidWorks automation scripts using the **Gemini API**.
 
+
+https://github.com/user-attachments/assets/f81a218c-dc4c-4745-bed2-5652c8304ede
+
+
 ## Features
 - Generate Python scripts for SolidWorks (COM API)  
 - Automatic script execution  
